@@ -37,3 +37,5 @@ A watch list for (free) graph database systems
 ## AnzoGraph
 
 ## Dgraph
+
+##  Kùzu
